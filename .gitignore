@@ -1,0 +1,13 @@
+documented
+bin
+obj
+Debug
+Release
+x64
+*.rar
+torch.dll
+ainumber.rar
+skpcb_bak.backup
+_pywrap_tensorflow_internal.pyd
+opencv_world420d.dll
+node_modules
